@@ -6,7 +6,7 @@
   <name>Scan</name>
 
   <engines>
-    <engine name="cordova-android" version=">=6.3.0" />
+    <engine name="cordova-android" version=">=6.1.2" />
   </engines>
 
   <asset src="www/scan.js" target="js/scan.js"/>
