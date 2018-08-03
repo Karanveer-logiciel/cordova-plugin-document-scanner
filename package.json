@@ -22,11 +22,6 @@
     "cordova-ios",
     "document scanner"
   ],
-  "engines": {
-    "cordovaDependencies": {
-      "cordova-android": ">=6.1.2",
-      "cordova-ios": ">=4.5.4"}
-  },
   "author": "jatahworx",
   "license": "ISC",
   "description": "cordova plugin for document scanner"
