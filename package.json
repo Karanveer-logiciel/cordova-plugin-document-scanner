@@ -12,6 +12,9 @@
       "ios"
     ]
   },
+  "dependencies": {
+    "cordova_android": ">=6.1.2"
+  },
   "keywords": [
     "cordova",
     "camera",
